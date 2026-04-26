@@ -1,8 +1,4 @@
 # z-os-uss-learning
-Notes and hands-on practice with z/OS UNIX System Services (USS), file systems, permissions, and mainframe fundamentals.
-
-
-# z-os-uss-learning
 
 Hands-on learning and notes for z/OS UNIX System Services (USS), including file systems, permissions, and mainframe fundamentals.
 
