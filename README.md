@@ -99,7 +99,7 @@ This repo includes:
 ## 📚 Next Steps
 
 * Practice more UNIX commands in USS
-* Explore shell scripting
+* Explore and practice shell scripting
 * Learn job control (JCL) alongside USS
 
 ---
